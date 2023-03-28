@@ -3,6 +3,6 @@ from task2 import *
 from task3 import *
 
 if __name__ == '__main__':
-    cw1()
-    cw2()
-    cw3()
+    #cw1()
+    #cw2()
+    cw3v2()
