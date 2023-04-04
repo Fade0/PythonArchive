@@ -7,6 +7,7 @@ if __name__ == '__main__':
     #cw1()
     #cw2()
     cw3()
+    print("XD")
 """
 Zadanie 1. Napisz funkcję obliczającą i zwracającą ilość potrzebnych opakowań paneli w danym pomieszczeniu, zakładając prostokątną podłogę i prostokątne panele. Dane wejściowe to długość i szerokość podłogi, (do powierzchni pomieszczenia należy dodać 10%) długość i szerokość panela oraz ilość paneli w opakowaniu. (10%)
 

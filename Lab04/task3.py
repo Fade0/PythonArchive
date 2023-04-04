@@ -8,8 +8,8 @@ def cw3():
     #Funkcja rozwiązuje problem klucza przesuwającego litery poza zakres listy  z alfabetem oraz problem podania klucza o dowolnej wielkości(20%).
     #Funkcja opcjonalnie przyjmuje dowolny alfabet. Domyślnie używa angielskiego(10%).
 
-    message = input("Text to change \n")
-    key = int(input("Type code \n"))
+    message = input("Text to change XD")
+    key = int(input("Type code"))
     #lang = input("what language \n")
 
     langDictionary = {
